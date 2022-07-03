@@ -88,3 +88,6 @@ print ("Added jacket",me.getClassiness())
 
 me.addItem("monocle")
 print ("Added monocle",me.getClassiness())
+
+me.addItem("bowtie")
+print ("Added bowtie",me.getClassiness()
